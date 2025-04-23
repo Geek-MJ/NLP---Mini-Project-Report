@@ -67,5 +67,5 @@ Machine learning algorithms, particularly ensemble methods like Random Forest, p
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/Geek-MJ/heart-disease-prediction.git
 cd heart-disease-prediction
